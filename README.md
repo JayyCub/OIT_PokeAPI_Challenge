@@ -29,7 +29,7 @@ enter the following commands to run the .exe version of the python script 'main.
 The script should now be running and you can interact with the program.
 
 
-##Notes
+## Notes
 
 In order to utilize the Python language and its dependencies
 and make it accessible to any user, this program is bundled
