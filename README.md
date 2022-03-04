@@ -1,10 +1,10 @@
-#PokeAPI OIT Application Coding Challenge
+# PokeAPI OIT Application Coding Challenge
 
 Created by Jacob Thomsen, 2 March 2022.
 This project was created as a part of an application for the BYU OIT Student Developer job position.
 
 
-##Requirements / Program Functions
+## Requirements / Program Functions
 
 Using Python, this program can:
 
@@ -17,7 +17,7 @@ Using Python, this program can:
            and one other value of your choice related to the Pokemon.
 
 
-##Running the program
+## Running the program
 
 If you have cloned the repository for this code or unzipped the project folder, 
 enter the following commands to run the .exe version of the python script 'main.py':
