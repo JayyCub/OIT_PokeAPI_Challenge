@@ -28,7 +28,7 @@ enter the following commands to run the .exe version of the python script 'main.
 
 The script should now be running and you can interact with the program.
 
-The Python script itself is main.py and can be found in the `venv` folder
+### The Python script itself is main.py and can be found in the `venv` folder
 
 
 ## Notes
