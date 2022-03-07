@@ -3,6 +3,7 @@
 Created by Jacob Thomsen, 2 March 2022.
 This project was created as a part of an application for the BYU OIT Student Developer job position.
 
+### The program is `main.py` and can be found in the `venv` folder
 
 ## Requirements / Program Functions
 
@@ -27,9 +28,6 @@ enter the following commands to run the .exe version of the python script 'main.
 `> ./main`
 
 The script should now be running and you can interact with the program.
-
-### The Python script itself is main.py and can be found in the `venv` folder
-
 
 ## Notes
 

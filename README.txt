@@ -1,6 +1,8 @@
 Created by Jacob Thomsen, 2 March 2022.
 This project was created as a part of an application for the BYU OIT Student Developer job position.
 
+The Python script I have written for this challenge is 'main.py' and it can be found in the 'venv' folder
+
 
 ##################################################
 Requirements / Program Functions
@@ -14,7 +16,7 @@ Using Python, this program can:
 
 3.    Return information for the entered Pokemon name including at least the games the Pokemon are in,
            all the types of the Pokemon, the name of one of the Pokemon's moves,
-           and one other value of your choice related to the Pokemon.
+           and one other value of your choice related to the Pokemon (my selection: Pokedex Number).
 
 
 ##################################################
